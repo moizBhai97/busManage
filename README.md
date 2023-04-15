@@ -1,4 +1,4 @@
-# HCI Mylife
+# Bus Management App
 
 A new Flutter project.
 
