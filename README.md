@@ -1,4 +1,4 @@
-# Bus Management App
+# Bus Management App Documentation provided
 
 A new Flutter project. For best use dimensions 390x844 and run in android studio for testing.
 
